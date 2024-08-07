@@ -1,0 +1,2 @@
+# kado.bina
+kado
